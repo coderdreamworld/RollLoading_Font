@@ -24,6 +24,7 @@
 		044B608F1D53338B0050C852 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 044B608A1D53338B0050C852 /* 7.png */; };
 		044B60901D53338B0050C852 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 044B608B1D53338B0050C852 /* 8.png */; };
 		044B60911D53338B0050C852 /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 044B608C1D53338B0050C852 /* 9.png */; };
+		044B60931D534EF70050C852 /* wusong.plist in Resources */ = {isa = PBXBuildFile; fileRef = 044B60921D534EF70050C852 /* wusong.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,7 @@
 		044B608A1D53338B0050C852 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
 		044B608B1D53338B0050C852 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
 		044B608C1D53338B0050C852 /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		044B60921D534EF70050C852 /* wusong.plist */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = wusong.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 				044B60511D5305900050C852 /* AppDelegate.m */,
 				044B60531D5305900050C852 /* ViewController.h */,
 				044B60541D5305900050C852 /* ViewController.m */,
+				044B60921D534EF70050C852 /* wusong.plist */,
 				044B60801D5314850050C852 /* 1.png */,
 				044B60811D5314850050C852 /* 2.png */,
 				044B60821D5314850050C852 /* 3.png */,
@@ -276,6 +279,7 @@
 				044B60841D5314850050C852 /* 1.png in Resources */,
 				044B608E1D53338B0050C852 /* 6.png in Resources */,
 				044B60851D5314850050C852 /* 2.png in Resources */,
+				044B60931D534EF70050C852 /* wusong.plist in Resources */,
 				044B60861D5314850050C852 /* 3.png in Resources */,
 				044B608D1D53338B0050C852 /* 5.png in Resources */,
 				044B608F1D53338B0050C852 /* 7.png in Resources */,
